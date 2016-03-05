@@ -26,7 +26,7 @@ $ ./carve -s 0x001 -e 0x030 /etc/passwd
 #
 # User Database
 #
-# Note that this file is c[amorris] ~/Projects/carve 
+# Note that this file is c
 ```
 
 Hex output
